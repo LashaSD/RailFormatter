@@ -1,0 +1,14 @@
+{
+  "name": "RailFormatter",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "RailFormatter": {
+        "$path": "src/scripts",
+        "$ignoreUnknownInstances": true
+      }
+    }
+
+  }
+}
